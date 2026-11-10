@@ -1,3 +1,6 @@
+### many of this link was copy from bebasid with my personal configuration
+
+###[ISP BLOCKLIST]
 127.0.0.1 d31qbv1cthcecs.cloudfront.net
 127.0.0.1 d5nxst8fruw4z.cloudfront.net
 127.0.0.1 das.uadexchange.com
@@ -37,22 +40,29 @@
 127.0.0.1 v3.mercusuar.uzone.id
 127.0.0.1 internetpositif.id
 127.0.0.1 internet-positif.info
+
 ### [Firstmedia]
 127.0.0.1 fm1.firstmedia.com
+
 ### [XL/Fiber/Liveon/Lite]
 127.0.0.1 ibnads.xl.co.id
+
 ### [Indosat/Hifi]
 127.0.0.1 ads.indosatooredoo.com
 127.0.0.1 netsafe.indosatm2.com
+
 ### [MyRepublic]
 127.0.0.1 block.myrepublic.co.id
+
 ### [dedomil.net]
 188.166.133.152 dedomil.net
+
 ### [Reddit Fix]
-151.101.193.140 www.reddit.com
-151.101.193.140 gql-fed.reddit.com
-151.101.129.140 www.reddit.com
-### [Porn Block]
+### 151.101.193.140 www.reddit.com
+### 151.101.193.140 gql-fed.reddit.com
+### 151.101.129.140 www.reddit.com
+
+### [Porn Block stop PMO]
 127.0.0.1 xnxx.com
 127.0.0.1 pornhub.com
 127.0.0.1 theporndude.com
@@ -64,6 +74,7 @@
 127.0.0.1 xvideos.com
 127.0.0.1 bangbros.com
 127.0.0.1 spankbang.com
+
 ### [Disable Ads on App]
 127.0.0.1 ms.applovin.com
 127.0.0.1 stage-mediate-events.applovin.com
@@ -85,6 +96,7 @@
 127.0.0.1 fcm.afafb.com
 127.0.0.1 rt.applovin.com
 127.0.0.1 applovin.com
+
 ### [Youtube Ads]
 127.0.0.1 app-measurement.com
 127.0.0.1 lh6.googleusercontent.com
@@ -157,8 +169,13 @@
 0.0.0.0 rr8---sn-ci5gup-jwce.googlevideo.com
 0.0.0.0 rr9---sn-ci5gup-jwce.googlevideo.com
 0.0.0.0 rr10---sn-ci5gup-jwce.googlevideo.com
-#Fix Octo
+
+###[Fix Octo Root Detection]
 0.0.0.0 ap21.zimperium.com
 0.0.0.0 ap21prim-cdn.zimperium.com
 0.0.0.0 edge.zimperium.com
 0.0.0.0 cdn.zimperium.com
+
+###[Fix India Bhim Root Detection]
+0.0.0.0 t6.protectt.ai
+0.0.0.0 static.protectt.ai
